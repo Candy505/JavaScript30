@@ -1,3 +1,4 @@
-![Screenshot (219)](https://user-images.githubusercontent.com/87769883/186831009-7a33b0e6-a533-4833-a54b-dbc4411ef649.png)
+![Piano Kit](https://user-images.githubusercontent.com/87769883/186834054-163a372f-2510-4a69-807b-f4797d88ba3a.jpg)
+
 
 
