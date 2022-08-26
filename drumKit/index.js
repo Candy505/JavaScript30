@@ -4,11 +4,15 @@ window.addEventListener('keydown',function(e){
     const key = document.querySelector(`.key[data-key = "${e.keyCode}"]`);
     if(!audio)return;   //stop the functn from running all together
     
-    audio.currentTime = 0 ;  //rewind to the start
-    audio.play();
-
+    
+    audio.currentTime = 0 ;
+     //rewind to the start
+    audio.play()
     key.classList.toggle('playing');
-    console.log(key);
+    //console.log(key);
 
 
     });
+
+
+   
